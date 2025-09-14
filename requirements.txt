@@ -1,0 +1,11 @@
+os
+sqlite3
+uuid
+pdfplumber
+docx2txt
+Flask
+request
+jsonify
+flask_cors
+secure_filename
+load_dotenv
